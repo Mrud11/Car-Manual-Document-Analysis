@@ -1,10 +1,11 @@
 streamlit
 ddgs
 python-dotenv
-langchain>=0.0.254
 transformers
 torch
 faiss-cpu
 sentence-transformers
 duckduckgo-search
-langchain-perplexity
+langchain==0.0.303
+langchain-perplexity==0.1.2
+
