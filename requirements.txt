@@ -1,0 +1,10 @@
+streamlit
+ddgs
+python-dotenv
+langchain
+transformers
+torch
+faiss-cpu
+sentence-transformers
+duckduckgo-search
+langchain-perplexity
