@@ -6,8 +6,8 @@ torch==2.0.0
 faiss-cpu==1.7.4
 sentence-transformers==2.2.2
 duckduckgo-search==2.9.5
-langchain
-langchain-perplexity
+langchain==0.0.281
+langchain-perplexity==0.1.2
 
 
 
